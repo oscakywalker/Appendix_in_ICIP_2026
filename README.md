@@ -23,4 +23,5 @@ The three tables below are paired bootstrap statistic significance based on mult
 | FastV + {u_i} in LLM Decoder        | +0.06 [-0.03, 0.14] | +1 [-4, 7]    | +0.16 [-0.13, 0.45] | +0.07 [-0.07, 0.21] |
 | VisionZip + {u_i} in Vision Encoder | +0.02 [-0.36, 0.41] | -18 [-35, -1] | -0.16 [-1.04, 0.71] | +0.76 [0.07, 1.48]  |
 
-The additional figures
+The additional figures present the multi-head variances in our methods with more samples.
+
