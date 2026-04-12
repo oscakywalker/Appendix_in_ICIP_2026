@@ -25,3 +25,5 @@ The three tables below are paired bootstrap statistic significance based on mult
 
 The additional figures present the multi-head variances in our methods with more samples.
 
+![Cross-head variance visualization](Illustration_of_uncertainty_estimation_via_cross-head_variance_in_multi-head_attention_GQA_test12.png)
+
