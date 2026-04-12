@@ -1,6 +1,6 @@
 # Appendix_in_ICIP_2026
 The additional figure and table interpretation based on the comments.
-The three tables below are paired bootstrap statistic significance based on multiple tests using our model for different tasks (GQA, MME, AI2D, VizWiz_VQA). Values are reported as percentage point improvements for VQA tasks (GQA, AI2D, VizWiz-VQA), and raw score differences for MME. All comparisons are paired on the same test samples. 
+The three tables below are paired bootstrap statistic significance based on the average improvements of repeated tests using our model for different tasks (GQA, MME, AI2D, VizWiz_VQA). Values are reported as percentage point improvements for VQA tasks (GQA, AI2D, VizWiz-VQA), and raw score differences for MME. All comparisons are paired on the same test samples. 
 
 **1. Keep Ratio = 0.1 (58 tokens)**
 | Method                              | GQA                | MME         | AI2D                | VizWiz-VQA          |
